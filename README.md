@@ -1,3 +1,3 @@
 # canny_edge_detector
 
-Visual Computing (3-1) - 2nd Homework
+Visual Computing (2021) - 2nd Homework
